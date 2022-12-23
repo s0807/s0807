@@ -1,4 +1,4 @@
-### Hi there 👋
+### 개발자 취업을 원하는 김수정 입니다. 👋
 
 <!--
 **s0807/s0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
